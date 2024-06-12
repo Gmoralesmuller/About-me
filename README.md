@@ -13,9 +13,13 @@
 
     - Visual studio code
     - Lighthouse
-    
+
 ## License
 
 (MIT)
 
 MIT © Georgina Morales
+
+### Lighthouse Lab03 
+
+![Lab03](img/Lighthouselab03.png)
